@@ -1,0 +1,369 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 10월12 ?      00:00:26 /lib/systemd/systemd --system --deserialize 32 splash
+root           2       0  0 10월12 ?      00:00:00 [kthreadd]
+root           3       2  0 10월12 ?      00:00:00 [pool_workqueue_release]
+root           4       2  0 10월12 ?      00:00:00 [kworker/R-rcu_g]
+root           5       2  0 10월12 ?      00:00:00 [kworker/R-rcu_p]
+root           6       2  0 10월12 ?      00:00:00 [kworker/R-slub_]
+root           7       2  0 10월12 ?      00:00:00 [kworker/R-netns]
+root           9       2  0 10월12 ?      00:00:00 [kworker/0:0H-events_highpri]
+root          12       2  0 10월12 ?      00:00:00 [kworker/R-mm_pe]
+root          13       2  0 10월12 ?      00:00:00 [rcu_tasks_kthread]
+root          14       2  0 10월12 ?      00:00:00 [rcu_tasks_rude_kthread]
+root          15       2  0 10월12 ?      00:00:00 [rcu_tasks_trace_kthread]
+root          16       2  0 10월12 ?      00:00:01 [ksoftirqd/0]
+root          17       2  0 10월12 ?      00:02:52 [rcu_preempt]
+root          18       2  0 10월12 ?      00:00:03 [migration/0]
+root          19       2  0 10월12 ?      00:00:00 [idle_inject/0]
+root          20       2  0 10월12 ?      00:00:00 [cpuhp/0]
+root          21       2  0 10월12 ?      00:00:00 [cpuhp/1]
+root          22       2  0 10월12 ?      00:00:00 [idle_inject/1]
+root          23       2  0 10월12 ?      00:00:05 [migration/1]
+root          24       2  0 10월12 ?      00:00:00 [ksoftirqd/1]
+root          26       2  0 10월12 ?      00:00:00 [kworker/1:0H-events_highpri]
+root          27       2  0 10월12 ?      00:00:00 [cpuhp/2]
+root          28       2  0 10월12 ?      00:00:00 [idle_inject/2]
+root          29       2  0 10월12 ?      00:00:05 [migration/2]
+root          30       2  0 10월12 ?      00:00:09 [ksoftirqd/2]
+root          32       2  0 10월12 ?      00:00:00 [kworker/2:0H-events_highpri]
+root          33       2  0 10월12 ?      00:00:00 [cpuhp/3]
+root          34       2  0 10월12 ?      00:00:00 [idle_inject/3]
+root          35       2  0 10월12 ?      00:00:06 [migration/3]
+root          36       2  0 10월12 ?      00:00:04 [ksoftirqd/3]
+root          38       2  0 10월12 ?      00:00:00 [kworker/3:0H-events_highpri]
+root          39       2  0 10월12 ?      00:00:00 [cpuhp/4]
+root          40       2  0 10월12 ?      00:00:00 [idle_inject/4]
+root          41       2  0 10월12 ?      00:00:12 [migration/4]
+root          42       2  0 10월12 ?      00:00:00 [ksoftirqd/4]
+root          44       2  0 10월12 ?      00:00:00 [kworker/4:0H-events_highpri]
+root          45       2  0 10월12 ?      00:00:00 [cpuhp/5]
+root          46       2  0 10월12 ?      00:00:00 [idle_inject/5]
+root          47       2  0 10월12 ?      00:00:05 [migration/5]
+root          48       2  0 10월12 ?      00:00:00 [ksoftirqd/5]
+root          50       2  0 10월12 ?      00:00:00 [kworker/5:0H-events_highpri]
+root          51       2  0 10월12 ?      00:00:00 [cpuhp/6]
+root          52       2  0 10월12 ?      00:00:00 [idle_inject/6]
+root          53       2  0 10월12 ?      00:00:04 [migration/6]
+root          54       2  0 10월12 ?      00:00:00 [ksoftirqd/6]
+root          56       2  0 10월12 ?      00:00:00 [kworker/6:0H-events_highpri]
+root          57       2  0 10월12 ?      00:00:00 [cpuhp/7]
+root          58       2  0 10월12 ?      00:00:00 [idle_inject/7]
+root          59       2  0 10월12 ?      00:00:03 [migration/7]
+root          60       2  0 10월12 ?      00:00:00 [ksoftirqd/7]
+root          62       2  0 10월12 ?      00:00:00 [kworker/7:0H-events_highpri]
+root          63       2  0 10월12 ?      00:00:00 [cpuhp/8]
+root          64       2  0 10월12 ?      00:00:00 [idle_inject/8]
+root          65       2  0 10월12 ?      00:00:02 [migration/8]
+root          66       2  0 10월12 ?      00:00:00 [ksoftirqd/8]
+root          68       2  0 10월12 ?      00:00:00 [kworker/8:0H-events_highpri]
+root          69       2  0 10월12 ?      00:00:00 [cpuhp/9]
+root          70       2  0 10월12 ?      00:00:00 [idle_inject/9]
+root          71       2  0 10월12 ?      00:00:03 [migration/9]
+root          72       2  0 10월12 ?      00:00:00 [ksoftirqd/9]
+root          74       2  0 10월12 ?      00:00:00 [kworker/9:0H-events_highpri]
+root          75       2  0 10월12 ?      00:00:00 [cpuhp/10]
+root          76       2  0 10월12 ?      00:00:00 [idle_inject/10]
+root          77       2  0 10월12 ?      00:00:02 [migration/10]
+root          78       2  0 10월12 ?      00:00:06 [ksoftirqd/10]
+root          80       2  0 10월12 ?      00:00:00 [kworker/10:0H-events_highpri]
+root          81       2  0 10월12 ?      00:00:00 [cpuhp/11]
+root          82       2  0 10월12 ?      00:00:00 [idle_inject/11]
+root          83       2  0 10월12 ?      00:00:02 [migration/11]
+root          84       2  0 10월12 ?      00:00:02 [ksoftirqd/11]
+root          86       2  0 10월12 ?      00:00:00 [kworker/11:0H-events_highpri]
+root          87       2  0 10월12 ?      00:00:00 [cpuhp/12]
+root          88       2  0 10월12 ?      00:00:00 [idle_inject/12]
+root          89       2  0 10월12 ?      00:00:03 [migration/12]
+root          90       2  0 10월12 ?      00:00:00 [ksoftirqd/12]
+root          92       2  0 10월12 ?      00:00:00 [kworker/12:0H-events_highpri]
+root          93       2  0 10월12 ?      00:00:00 [cpuhp/13]
+root          94       2  0 10월12 ?      00:00:00 [idle_inject/13]
+root          95       2  0 10월12 ?      00:00:03 [migration/13]
+root          96       2  0 10월12 ?      00:00:00 [ksoftirqd/13]
+root          98       2  0 10월12 ?      00:00:00 [kworker/13:0H-events_highpri]
+root          99       2  0 10월12 ?      00:00:00 [cpuhp/14]
+root         100       2  0 10월12 ?      00:00:00 [idle_inject/14]
+root         101       2  0 10월12 ?      00:00:02 [migration/14]
+root         102       2  0 10월12 ?      00:00:00 [ksoftirqd/14]
+root         104       2  0 10월12 ?      00:00:00 [kworker/14:0H-events_highpri]
+root         105       2  0 10월12 ?      00:00:00 [cpuhp/15]
+root         106       2  0 10월12 ?      00:00:00 [idle_inject/15]
+root         107       2  0 10월12 ?      00:00:02 [migration/15]
+root         108       2  0 10월12 ?      00:00:00 [ksoftirqd/15]
+root         110       2  0 10월12 ?      00:00:00 [kworker/15:0H-events_highpri]
+root         111       2  0 10월12 ?      00:00:00 [kdevtmpfs]
+root         112       2  0 10월12 ?      00:00:00 [kworker/R-inet_]
+root         113       2  0 10월12 ?      00:00:00 [kauditd]
+root         115       2  0 10월12 ?      00:00:00 [khungtaskd]
+root         116       2  0 10월12 ?      00:00:00 [oom_reaper]
+root         118       2  0 10월12 ?      00:00:00 [kworker/R-write]
+root         119       2  0 10월12 ?      00:00:18 [kcompactd0]
+root         120       2  0 10월12 ?      00:00:00 [ksmd]
+root         122       2  0 10월12 ?      00:00:11 [khugepaged]
+root         123       2  0 10월12 ?      00:00:00 [kworker/R-kinte]
+root         124       2  0 10월12 ?      00:00:00 [kworker/R-kbloc]
+root         125       2  0 10월12 ?      00:00:00 [kworker/R-blkcg]
+root         126       2  0 10월12 ?      00:00:00 [irq/9-acpi]
+root         128       2  0 10월12 ?      00:00:00 [kworker/R-tpm_d]
+root         129       2  0 10월12 ?      00:00:00 [kworker/R-ata_s]
+root         130       2  0 10월12 ?      00:00:00 [kworker/R-md]
+root         131       2  0 10월12 ?      00:00:00 [kworker/R-md_bi]
+root         132       2  0 10월12 ?      00:00:00 [kworker/R-edac-]
+root         133       2  0 10월12 ?      00:00:00 [kworker/R-devfr]
+root         134       2  0 10월12 ?      00:00:00 [watchdogd]
+root         136       2  0 10월12 ?      00:00:01 [kworker/5:1H-kblockd]
+root         138       2  0 10월12 ?      00:00:00 [kswapd0]
+root         139       2  0 10월12 ?      00:00:00 [ecryptfs-kthread]
+root         141       2  0 10월12 ?      00:00:00 [kworker/R-kthro]
+root         143       2  0 10월12 ?      00:00:00 [kworker/R-acpi_]
+root         144       2  0 10월12 ?      00:00:08 [hwrng]
+root         145       2  0 10월12 ?      00:00:00 [kworker/R-mld]
+root         146       2  0 10월12 ?      00:00:00 [kworker/0:1H-kblockd]
+root         148       2  0 10월12 ?      00:00:00 [kworker/R-ipv6_]
+root         157       2  0 10월12 ?      00:00:00 [kworker/R-kstrp]
+root         178       2  0 10월12 ?      00:00:00 [kworker/R-charg]
+root         197       2  0 10월12 ?      00:00:01 [kworker/2:1H-kblockd]
+root         201       2  0 10월12 ?      00:00:00 [kworker/11:1H-kblockd]
+root         202       2  0 10월12 ?      00:00:01 [kworker/7:1H-kblockd]
+root         215       2  0 10월12 ?      00:00:01 [kworker/4:1H-kblockd]
+root         216       2  0 10월12 ?      00:00:00 [kworker/12:1H-kblockd]
+root         217       2  0 10월12 ?      00:00:00 [kworker/8:1H-kblockd]
+root         218       2  0 10월12 ?      00:00:00 [kworker/6:1H-kblockd]
+root         219       2  0 10월12 ?      00:00:00 [kworker/10:1H-kblockd]
+root         220       2  0 10월12 ?      00:00:00 [kworker/13:1H-kblockd]
+root         221       2  0 10월12 ?      00:00:00 [kworker/9:1H-kblockd]
+root         222       2  0 10월12 ?      00:00:00 [kworker/14:1H-kblockd]
+root         223       2  0 10월12 ?      00:00:00 [kworker/15:1H-kblockd]
+root         228       2  0 10월12 ?      00:00:00 [kworker/1:1H-kblockd]
+root         229       2  0 10월12 ?      00:00:01 [kworker/3:1H-kblockd]
+root         256       2  0 10월12 ?      00:00:00 [kworker/R-nvme-]
+root         257       2  0 10월12 ?      00:00:00 [kworker/R-nvme-]
+root         258       2  0 10월12 ?      00:00:00 [kworker/R-nvme-]
+root         259       2  0 10월12 ?      00:00:00 [kworker/R-nvme-]
+root         282       2  0 10월12 ?      00:00:00 [scsi_eh_0]
+root         283       2  0 10월12 ?      00:00:00 [kworker/R-scsi_]
+root         284       2  0 10월12 ?      00:00:00 [scsi_eh_1]
+root         285       2  0 10월12 ?      00:00:00 [kworker/R-scsi_]
+root         286       2  0 10월12 ?      00:00:00 [scsi_eh_2]
+root         287       2  0 10월12 ?      00:00:00 [kworker/R-scsi_]
+root         288       2  0 10월12 ?      00:00:00 [scsi_eh_3]
+root         289       2  0 10월12 ?      00:00:00 [kworker/R-scsi_]
+root         290       2  0 10월12 ?      00:00:00 [scsi_eh_4]
+root         291       2  0 10월12 ?      00:00:00 [kworker/R-scsi_]
+root         292       2  0 10월12 ?      00:00:00 [scsi_eh_5]
+root         293       2  0 10월12 ?      00:00:00 [kworker/R-scsi_]
+root         323       2  0 10월12 ?      00:00:14 [jbd2/nvme0n1p2-8]
+root         324       2  0 10월12 ?      00:00:00 [kworker/R-ext4-]
+root         363       1  0 10월12 ?      00:01:43 /lib/systemd/systemd-journald
+root         422       1  0 10월12 ?      00:00:00 /lib/systemd/systemd-udevd
+root         485       2  0 10월12 ?      00:00:00 [irq/151-mei_me]
+root         560       2  0 10월12 ?      00:00:00 [kworker/R-cfg80]
+root         574       2  0 10월12 ?      00:00:00 [kworker/R-crypt]
+root         575       2  0 10월12 ?      00:00:00 [nv_queue]
+root         576       2  0 10월12 ?      00:00:00 [nv_queue]
+root         577       2  0 10월12 ?      00:00:00 [nv_open_q]
+root         578       2  0 10월12 ?      00:00:14 [irq/152-iwlwifi]
+systemd+     652       1  0 10월12 ?      00:00:09 /lib/systemd/systemd-resolved
+root         665       2  0 10월12 ?      00:06:45 [nvidia-modeset/kthread_q]
+root         666       2  0 10월12 ?      00:00:00 [nvidia-modeset/deferred_close_kthread_q]
+root         671       2  0 10월12 ?      00:00:00 [irq/154-nvidia]
+root         672       2  0 10월12 ?      00:00:00 [nvidia]
+root         673       2  0 10월12 ?      00:00:00 [nv_queue]
+root         771       1  0 10월12 ?      00:00:00 /usr/sbin/acpid
+avahi        774       1  0 10월12 ?      00:02:59 avahi-daemon: running [hslee-desktop.local]
+root         775       1  0 10월12 ?      00:00:00 /usr/lib/bluetooth/bluetoothd
+message+     777       1  0 10월12 ?      00:00:10 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         779       1  0 10월12 ?      00:03:05 /usr/sbin/NetworkManager --no-daemon
+root         785       1  0 10월12 ?      00:00:34 /usr/sbin/irqbalance --foreground
+root         790       1  0 10월12 ?      00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         795       1  0 10월12 ?      00:00:13 /usr/libexec/polkitd --no-debug
+root         797       1  0 10월12 ?      00:00:00 /usr/libexec/power-profiles-daemon
+syslog       799       1  0 10월12 ?      00:00:28 /usr/sbin/rsyslogd -n -iNONE
+root         803       1  0 10월12 ?      00:00:34 /usr/lib/snapd/snapd
+root         806       1  0 10월12 ?      00:00:35 /usr/libexec/accounts-daemon
+root         807       1  0 10월12 ?      00:00:00 /usr/sbin/cron -f -P
+root         809       1  0 10월12 ?      00:00:00 /usr/libexec/switcheroo-control
+root         810       1  0 10월12 ?      00:00:02 /usr/bin/nvidia-persistenced --verbose
+root         812       1  0 10월12 ?      00:00:01 /lib/systemd/systemd-logind
+root         813       1  0 10월12 ?      00:00:28 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         815       1  0 10월12 ?      00:00:00 /usr/libexec/udisks2/udisksd
+root         817       1  0 10월12 ?      00:00:03 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        831     774  0 10월12 ?      00:00:00 avahi-daemon: chroot helper
+root         872       1  0 10월12 ?      00:06:54 /usr/bin/python3 /usr/bin/fail2ban-server -xf start
+root         895       1  0 10월12 ?      00:07:09 /usr/bin/containerd
+root         899       1  0 10월12 ?      00:00:00 /usr/sbin/ModemManager
+root         912       1  0 10월12 ?      00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         916       1  0 10월12 ?      00:00:46 sshd: /usr/sbin/sshd -D [listener] 5 of 10-100 startups
+root        1136       1  0 10월12 ?      00:00:00 /usr/sbin/gdm3
+rtkit       1173       1  0 10월12 ?      00:00:04 /usr/libexec/rtkit-daemon
+root        1381       1  0 10월12 ?      00:00:00 /usr/libexec/upowerd
+root        1384       1  0 10월12 ?      00:00:04 /usr/libexec/packagekitd
+colord      1495       1  0 10월12 ?      00:00:00 /usr/libexec/colord
+root        1605    1136  0 10월12 ?      00:00:00 gdm-session-worker [pam/gdm-password]
+root        1786       1  0 10월12 ?      00:01:03 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+kernoops    1796       1  0 10월12 ?      00:00:00 /usr/sbin/kerneloops --test
+kernoops    1798       1  0 10월12 ?      00:00:00 /usr/sbin/kerneloops
+hslee       2166       1  0 10월12 ?      00:00:56 /lib/systemd/systemd --user
+hslee       2167    2166  0 10월12 ?      00:00:00 (sd-pam)
+hslee       2173    2166  0 10월12 ?      00:00:00 /usr/bin/pipewire
+hslee       2174    2166  0 10월12 ?      00:00:04 /usr/bin/pipewire-media-session
+hslee       2175    2166  0 10월12 ?      00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+hslee       2184       1  0 10월12 ?      00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+hslee       2208    2166  0 10월12 ?      00:00:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+hslee       2211    2166  0 10월12 ?      00:00:00 /usr/libexec/xdg-document-portal
+hslee       2214    2166  0 10월12 ?      00:00:00 /usr/libexec/xdg-permission-store
+root        2220    2211  0 10월12 ?      00:00:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+hslee       2228    2166  0 10월12 ?      00:00:00 /usr/libexec/gvfsd
+hslee       2239    2166  0 10월12 ?      00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+root        2249       2  0 10월12 ?      00:00:00 [krfcommd]
+hslee       2268    1605  0 10월12 tty2   00:00:00 /usr/libexec/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+hslee       2270    2268  0 10월12 tty2   00:00:01 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -nolisten tcp -background none -noreset -keeptty -novtswitch -verbose 3
+hslee       2376    2268  0 10월12 tty2   00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+hslee       2457    2166  0 10월12 ?      00:00:00 /usr/libexec/at-spi-bus-launcher
+hslee       2463    2457  0 10월12 ?      00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_1
+hslee       2471    2166  0 10월12 ?      00:00:00 /usr/libexec/gnome-session-ctl --monitor
+hslee       2498    2166  0 10월12 ?      00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+hslee       2520    2166  0 10월12 ?      00:02:25 /usr/bin/gnome-shell
+root        2526       2  0 10월12 ?      00:00:00 [nvidia-drm/timeline-9]
+hslee       2537    2166  0 10월12 ?      00:00:01 /usr/libexec/gnome-shell-calendar-server
+hslee       2544    2166  0 10월12 ?      00:00:02 /usr/libexec/evolution-source-registry
+hslee       2552    2166  0 10월12 ?      00:00:00 /usr/libexec/goa-daemon
+hslee       2553    2166  0 10월12 ?      00:00:00 /usr/libexec/dconf-service
+hslee       2554    2166  0 10월12 ?      00:00:00 /usr/libexec/gvfsd-metadata
+hslee       2557    2166  0 10월12 ?      00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+hslee       2570    2166  0 10월12 ?      00:00:01 /usr/libexec/goa-identity-service
+hslee       2572    2166  0 10월12 ?      00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+hslee       2581    2166  0 10월12 ?      00:00:03 /usr/libexec/evolution-calendar-factory
+hslee       2586    2166  0 10월12 ?      00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+hslee       2592    2166  0 10월12 ?      00:00:13 /usr/libexec/gvfs-afc-volume-monitor
+hslee       2597    2166  0 10월12 ?      00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+hslee       2616    2228  0 10월12 ?      00:00:00 /usr/libexec/gvfsd-trash --spawner :1.7 /org/gtk/gvfs/exec_spaw/0
+hslee       2629    2166  0 10월12 ?      00:00:00 /usr/libexec/evolution-addressbook-factory
+hslee       2632    2166  0 10월12 ?      00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+hslee       2634    2166  0 10월12 ?      00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+hslee       2660    2166  0 10월12 ?      00:00:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+hslee       2661    2166  0 10월12 ?      00:00:00 /usr/libexec/gsd-a11y-settings
+hslee       2663    2660  0 10월12 ?      00:00:00 /usr/bin/ibus-daemon --panel disable --xim
+hslee       2664    2166  0 10월12 ?      00:00:01 /usr/libexec/gsd-color
+hslee       2665    2166  0 10월12 ?      00:00:00 /usr/libexec/gsd-datetime
+hslee       2667    2166  0 10월12 ?      00:00:13 /usr/libexec/gsd-housekeeping
+hslee       2671    2166  0 10월12 ?      00:00:00 /usr/libexec/gsd-keyboard
+hslee       2673    2166  0 10월12 ?      00:00:00 /usr/libexec/gsd-media-keys
+hslee       2675    2166  0 10월12 ?      00:00:00 /usr/libexec/gsd-power
+hslee       2679    2166  0 10월12 ?      00:00:00 /usr/libexec/gsd-print-notifications
+hslee       2684    2166  0 10월12 ?      00:00:00 /usr/libexec/gsd-rfkill
+hslee       2686    2166  0 10월12 ?      00:00:00 /usr/libexec/gsd-screensaver-proxy
+hslee       2688    2166  0 10월12 ?      00:00:00 /usr/libexec/gsd-sharing
+hslee       2691    2166  0 10월12 ?      00:00:00 /usr/libexec/gsd-smartcard
+hslee       2696    2166  0 10월12 ?      00:00:00 /usr/libexec/gsd-sound
+hslee       2698    2166  0 10월12 ?      00:00:00 /usr/libexec/gsd-wacom
+hslee       2700    2166  0 10월12 ?      00:00:00 /usr/libexec/gsd-xsettings
+hslee       2705    2498  0 10월12 ?      00:00:00 /usr/libexec/gsd-disk-utility-notify
+hslee       2710    2498  0 10월12 ?      00:00:01 /usr/libexec/evolution-data-server/evolution-alarm-notify
+hslee       2789    2166  0 10월12 ?      00:00:08 /usr/libexec/xdg-desktop-portal
+hslee       2792    2166  0 10월12 ?      00:00:00 /usr/libexec/gsd-printer
+hslee       2806    2166  0 10월12 ?      00:00:00 /usr/libexec/xdg-desktop-portal-gnome
+hslee       2812    2166  0 10월12 ?      00:00:20 /snap/snap-store/1216/usr/bin/snap-store --gapplication-service
+root        2854       2  0 10월12 ?      00:00:00 [UVM global queue]
+root        2855       2  0 10월12 ?      00:00:00 [UVM deferred release queue]
+root        2856       2  0 10월12 ?      00:00:00 [UVM Tools Event Queue]
+hslee       2873    2663  0 10월12 ?      00:00:00 /usr/libexec/ibus-memconf
+hslee       2875    2663  0 10월12 ?      00:00:00 /usr/libexec/ibus-extension-gtk3
+hslee       2876    2166  0 10월12 ?      00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+hslee       2880    2166  0 10월12 ?      00:00:00 /usr/libexec/ibus-x11 --kill-daemon
+hslee       2885    2166  0 10월12 ?      00:00:00 /usr/libexec/ibus-portal
+hslee       2923    2166  0 10월12 ?      00:00:09 /usr/libexec/tracker-miner-fs-3
+hslee       3073    2663  0 10월12 ?      00:00:00 /usr/libexec/ibus-engine-hangul --ibus
+hslee       3093    2166  0 10월12 ?      00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+hslee       3113    2166  0 10월12 ?      00:00:00 /snap/snapd-desktop-integration/315/usr/bin/snapd-desktop-integration
+hslee       3304    3113  0 10월12 ?      00:00:00 /snap/snapd-desktop-integration/315/usr/bin/snapd-desktop-integration
+hslee       3328    2520  0 10월12 ?      00:00:03 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:1920:1080:1:27:0:70:0:0
+hslee       6755    2498  0 10월12 ?      00:00:08 update-notifier
+hslee       6764    2166  0 10월12 ?      00:00:00 /bin/sh -c /usr/lib/ubuntu-release-upgrader/check-new-release-gtk
+hslee       6765    6764  0 10월12 ?      00:00:01 /usr/bin/python3 /usr/lib/ubuntu-release-upgrader/check-new-release-gtk
+hslee       6916    2166  0 10월12 ?      00:01:29 /usr/bin/python3 /usr/bin/update-manager --no-update --no-focus-on-map
+systemd+    9681       1  0 10월12 ?      00:06:17 /lib/systemd/systemd-oomd
+root      155745       2  0 10월13 ?      00:00:00 [kworker/R-tls-s]
+hslee     155747    2166  0 10월13 ?      00:00:00 /usr/bin/python3 /usr/lib/ubuntu-release-upgrader/check-new-release-gtk
+hslee     214016       1  0 10월14 ?      00:00:01 SCREEN -R train
+hslee     214017  214016  0 10월14 pts/7  00:00:00 /bin/bash
+root      240669       2  0 10월19 ?      00:00:00 [kworker/15:2-mm_percpu_wq]
+root      447668       2  0 10월19 ?      00:00:00 [kworker/12:1-events]
+root      557548       2  0 10월19 ?      00:00:02 [kworker/3:1-events]
+root      573164       2  0 10월19 ?      00:00:00 [kworker/8:0-events]
+root      710243       2  0 10월19 ?      00:00:00 [kworker/5:1-events]
+root      752320       1  0 00:00 ?        00:00:00 /usr/sbin/cupsd -l
+root      752324       1  0 00:00 ?        00:00:00 /usr/sbin/cups-browsed
+root      754792       2  0 00:02 ?        00:00:00 [kworker/8:1-events]
+root      870782       2  0 01:34 ?        00:01:41 [kworker/10:1-events]
+root      875438       2  0 01:38 ?        00:00:00 [kworker/1:0-cgroup_destroy]
+root      885842       2  0 01:46 ?        00:00:29 [kworker/u33:2-hci0]
+root      900886       2  0 01:58 ?        00:00:00 [kworker/9:1-mm_percpu_wq]
+root      904850       2  0 02:02 ?        00:00:00 [kworker/1:2-events]
+root      917061       2  0 02:11 ?        00:00:00 [kworker/0:1-events]
+root      920498       2  0 03:56 ?        00:00:00 [kworker/7:0-events]
+root      925032       2  0 06:44 ?        00:00:00 [kworker/6:2-events]
+root      925421       2  0 07:01 ?        00:00:00 [kworker/12:2]
+root      927447       2  0 08:29 ?        00:00:00 [kworker/4:1-events]
+hslee     928028       1  0 08:49 ?        00:00:00 sh /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/bin/code-server --connection-token=remotessh --accept-server-license-terms --start-server --enable-remote-auto-shutdown --socket-path=/tmp/code-75e9d5c9-9740-4acb-9b0e-197bef82f052
+hslee     928032  928028  0 08:49 ?        00:00:14 /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/node /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/out/server-main.js --connection-token=remotessh --accept-server-license-terms --start-server --enable-remote-auto-shutdown --socket-path=/tmp/code-75e9d5c9-9740-4acb-9b0e-197bef82f052
+hslee     928071  928032  0 08:49 ?        00:00:41 /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/node --dns-result-order=ipv4first /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/out/bootstrap-fork --type=extensionHost --transformURIs --useHostProxy=false
+hslee     928089  928032  0 08:49 ?        00:00:02 /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/node /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/out/bootstrap-fork --type=fileWatcher
+hslee     928117  928032  0 08:49 ?        00:00:19 /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/node /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/out/bootstrap-fork --type=ptyHost --logsPath /home/hslee/.vscode-server/data/logs/20251020T084914
+hslee     928145  928071  0 08:49 ?        00:00:01 /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/node /home/hslee/.vscode-server/extensions/tht13.python-0.2.3/node_modules/vscode-languageclient/lib/utils/electronForkStart /home/hslee/.vscode-server/extensions/tht13.python-0.2.3/out/server/src/server.js
+hslee     928153  928071  0 08:49 ?        00:00:02 /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/node /home/hslee/.vscode-server/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9/dist/server/server.js --node-ipc --clientProcessId=928071
+hslee     928175  928071  0 08:49 ?        00:00:00 /home/hslee/.vscode-server/extensions/ms-python.python-2025.16.0-linux-x64/python-env-tools/bin/pet server
+hslee     928528  928117  0 08:49 pts/4    00:00:00 /bin/bash --init-file /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+hslee     928604  928117  0 08:49 pts/5    00:00:00 /bin/bash --init-file /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+hslee     928654  928071  0 08:49 ?        00:00:33 /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/node /home/hslee/.vscode-server/extensions/ms-python.vscode-pylance-2025.8.3/dist/server.bundle.js --cancellationReceive=file:0c6f3a79fef49a73cfb6aa18b252ea04777733d3ac --node-ipc --clientProcessId=928071
+root      929144       2  0 09:09 ?        00:00:18 [kworker/u33:1-hci0]
+root      929348       2  0 09:17 ?        00:00:00 [kworker/3:2]
+root      929921       2  0 09:36 ?        00:00:00 [kworker/13:0-events]
+root      931715       2  0 10:23 ?        00:00:00 [kworker/2:2-events]
+root      932401       2  0 10:44 ?        00:00:00 [kworker/14:1-events_freezable]
+root      933022       2  0 11:02 ?        00:00:00 [kworker/2:3]
+root      933827       2  0 11:34 ?        00:00:00 [kworker/10:0-events]
+root      934583       2  0 12:01 ?        00:00:00 [kworker/u32:3-flush-259:0]
+root      935113       2  0 12:16 ?        00:00:00 [kworker/14:0]
+root      935392       2  0 12:24 ?        00:00:00 [kworker/u32:2-events_unbound]
+root      935593     916  0 12:29 ?        00:00:00 sshd: hslee [priv]
+hslee     935653  935593  0 12:29 ?        00:00:01 sshd: hslee@notty
+hslee     935654  935653  0 12:29 ?        00:00:00 -bash
+hslee     935658  935654  0 12:29 ?        00:00:00 sh
+hslee     935676  935658  0 12:29 ?        00:00:02 /home/hslee/.vscode-server/code-03c265b1adee71ac88f833e065f7bb956b60550a command-shell --cli-data-dir /home/hslee/.vscode-server/cli --parent-process-id 935658 --on-host=127.0.0.1 --on-port
+root      935786     916  0 12:30 ?        00:00:00 sshd: hslee [priv]
+hslee     935824  935786  0 12:30 ?        00:00:00 sshd: hslee@pts/6
+hslee     935825  935824  0 12:30 pts/6    00:00:00 -bash
+root      935923       2  0 12:30 ?        00:00:00 [kworker/11:1-mm_percpu_wq]
+root      935930       2  0 12:30 ?        00:00:00 [kworker/9:0]
+root      936738       2  0 12:30 ?        00:00:00 [kworker/7:1]
+root      936746       2  0 12:30 ?        00:00:00 [kworker/5:2-events]
+root      936749       2  0 12:30 ?        00:00:00 [kworker/6:1]
+hslee     936752  928032  1 12:30 ?        00:00:09 /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/node --dns-result-order=ipv4first /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/out/bootstrap-fork --type=extensionHost --transformURIs --useHostProxy=false
+hslee     936763  928032  0 12:30 ?        00:00:00 /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/node /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/out/bootstrap-fork --type=fileWatcher
+hslee     936800  935676  0 12:30 ?        00:00:00 /bin/sh
+root      936866       2  0 12:30 ?        00:00:00 [kworker/15:1-events]
+root      936867       2  0 12:30 ?        00:00:00 [kworker/0:0-rcu_gp]
+hslee     936970  928117  0 12:31 pts/12   00:00:00 /bin/bash --init-file /home/hslee/.vscode-server/cli/servers/Stable-03c265b1adee71ac88f833e065f7bb956b60550a/server/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+root      937135     916  0 12:33 ?        00:00:00 sshd: hslee [priv]
+hslee     937173  937135  0 12:33 ?        00:00:00 sshd: hslee@notty
+hslee     937174  937173  0 12:33 ?        00:00:00 -bash
+hslee     937177  937174  0 12:33 ?        00:00:00 sh
+hslee     937195  937177  0 12:33 ?        00:00:01 /home/hslee/.vscode-server/code-03c265b1adee71ac88f833e065f7bb956b60550a command-shell --cli-data-dir /home/hslee/.vscode-server/cli --parent-process-id 937177 --on-host=127.0.0.1 --on-port
+root      937246       2  0 12:34 ?        00:00:00 [kworker/4:0-events]
+root      937278       2  0 12:34 ?        00:00:00 [kworker/13:1]
+root      937480       2  0 12:36 ?        00:00:00 [kworker/u32:4-events_power_efficient]
+root      938911       2  0 12:43 ?        00:00:00 [kworker/5:0-events]
+hslee     939021  935658  0 12:44 ?        00:00:00 sleep 180
+root      939078     916  0 12:44 ?        00:00:00 sshd: root [priv]
+sshd      939088  939078  0 12:44 ?        00:00:00 sshd: root [net]
+root      939089     916  0 12:44 ?        00:00:00 sshd: [accepted]
+root      939167       2  0 12:45 ?        00:00:00 [kworker/u32:0-flush-259:0]
+root      939273     916  0 12:45 ?        00:00:00 sshd: [accepted]
+hslee     939326  937177  0 12:45 ?        00:00:00 sleep 180
+root      939407     916  0 12:46 ?        00:00:00 sshd: root [priv]
+sshd      939408  939407  0 12:46 ?        00:00:00 sshd: root [net]
+root      939409     916  0 12:46 ?        00:00:00 sshd: root [priv]
+sshd      939410  939409  0 12:46 ?        00:00:00 sshd: root [net]
+hslee     939481  936970  0 12:46 pts/12   00:00:00 ps -ef
+root     2123614       2  0 10월18 ?      00:00:14 [kworker/11:2-events]

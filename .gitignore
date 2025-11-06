@@ -1,0 +1,8 @@
+# do not trace object files
+*.o
+obj/*
+
+# do not trace libraries
+lib/*
+*.a
+*.so*
