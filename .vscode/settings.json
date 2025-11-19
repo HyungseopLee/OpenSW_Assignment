@@ -60,6 +60,8 @@
     "funcs.h": "c",
     "stdio.h": "c",
     "advanced_ops.h": "c",
-    "string.h": "c"
+    "string.h": "c",
+    "basic_ops.h": "c",
+    "types.h": "c"
   }
 }
