@@ -9,7 +9,7 @@ struct two_double{
 };
 struct two_double data;
 
-void sigint_handler(int _signo) {
+void sigalarm_handler(int _signo) {
     printf("%f, %f\n", data.a, data.b);
     alarm(1);
 }
@@ -19,7 +19,7 @@ int main(void){
     struct sigaction sa_sigalrm;
     struct two_double zeros = {0.0, 0.0}, ones = {1.0, 1.0};
     
-    sa_sigalrm.sa_handler = sigint_handler;
+    sa_sigalrm.sa_handler = sigalarm_handler;
     sigemptyset(&sa_sigalrm.sa_mask);
     sa_sigalrm.sa_flags = 0;
     if(sigaction(SIGALRM, &sa_sigalrm, NULL) == -1){

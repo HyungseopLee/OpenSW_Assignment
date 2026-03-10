@@ -1,6 +1,7 @@
 # 📂 Open Source Software Design - Assignment Archive
 
-This repository contains all assignments code for the Open Source Software Design course.
+This repository contains the assignments that I designed and organized while serving as a Teaching Assistant (TA) for the Open Source Software Design course.  
+It also includes the directory structures and template code used by students to complete the assignments.
 
 ---
 
@@ -9,6 +10,8 @@ This repository contains all assignments code for the Open Source Software Desig
 * **Course:** Open Source Software Design
 * **University**: Incheon National University
 * **Semester:** Fall 2025
+* **Role:** Teaching Assistant (TA) — responsible for designing assignments and supporting lab session
+
 
 ---
 
